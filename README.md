@@ -1,7 +1,7 @@
 <h1>🌟 Weather Forecast application</h1>
 <p>Weather Forecast is a sleek and user-friendly app that provides real-time weather updates, forecasts, and temperature data based on your location or any city worldwide. Stay prepared with accurate and up-to-date weather info at your fingertips.</p>
 <br><h2> 🚀 Live Demo </h2>
-<p>Check it out live here: <a href="https://weather-forecast-count.glitch.me/">https://weather-forecast-count.glitch.me/</a> </p>
+<p>Check it out live here: <a href="https://weather-forecast-cit.netlify.app/">https://weather-forecast-cit.netlify.app/</a> </p>
 <br><h2> 📌 Setup Instructions </h2>
 
 1. Clone the repository:
